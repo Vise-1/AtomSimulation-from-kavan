@@ -1,3 +1,4 @@
 ﻿  atom.cpp
-C:\Users\Sparsh\Desktop\AtomSimulation\src\atom.cpp(82,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sparsh\Desktop\AtomSimulation\src\atom.cpp(76,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sparsh\Desktop\AtomSimulation\src\atom.cpp(102,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   AtomSimulation.vcxproj -> C:\Users\Sparsh\Desktop\AtomSimulation\Debug\AtomSimulation.exe

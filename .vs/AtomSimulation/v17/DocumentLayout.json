@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{C519EA47-85EE-4C4D-B7E7-9BDF90F35458}|AtomSimulation.vcxproj|C:\\Users\\Sparsh\\Desktop\\AtomSimulation\\src\\atom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C519EA47-85EE-4C4D-B7E7-9BDF90F35458}|AtomSimulation.vcxproj|solutionrelative:src\\atom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sparsh\\Desktop\\AtomSimulation\\CppProperties.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CppProperties.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CppProperties.json",
+              "DocumentMoniker": "C:\\Users\\Sparsh\\Desktop\\AtomSimulation\\CppProperties.json",
+              "RelativeDocumentMoniker": "CppProperties.json",
+              "ToolTip": "C:\\Users\\Sparsh\\Desktop\\AtomSimulation\\CppProperties.json",
+              "RelativeToolTip": "CppProperties.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T07:03:58.061Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +44,7 @@
               "RelativeDocumentMoniker": "src\\atom.cpp",
               "ToolTip": "C:\\Users\\Sparsh\\Desktop\\AtomSimulation\\src\\atom.cpp",
               "RelativeToolTip": "src\\atom.cpp",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwJYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-20T19:13:05.878Z",
               "EditorCaption": ""
